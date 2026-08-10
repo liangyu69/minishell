@@ -10,7 +10,6 @@ A simple Unix shell written in C, supporting built-in commands, redirection, pip
 | Command | Description |
 | :--- | :--- |
 | `exit` | Exit the shell |
-| `cd` | goes to HOME |
 | `cd [dir]` | Change directory. Without argument, goes to HOME |
 | `path` | Show current command search path |
 | `path [dir...]` | Set search path (overwrites previous) |
