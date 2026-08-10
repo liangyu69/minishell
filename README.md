@@ -10,6 +10,7 @@ A simple Unix shell written in C, supporting built-in commands, redirection, pip
 | Command | Description |
 | :--- | :--- |
 | `exit` | Exit the shell |
+| `cd` | goes to HOME |
 | `cd [dir]` | Change directory. Without argument, goes to HOME |
 | `path` | Show current command search path |
 | `path [dir...]` | Set search path (overwrites previous) |
@@ -139,12 +140,6 @@ minishell> exit
 - String parsing and command-line argument processing
 - Makefile basics
 
-## Future Improvements (Optional)
-
-- Job control (`jobs`, `fg`, `bg`)
-- Multiple pipeline support (`cmd1 | cmd2 | cmd3`)
-- Command history
-- Environment variable expansion
 
 ## Author
 
