@@ -115,10 +115,12 @@ minishell> exit
 
 ```
 .
-├── minishell.c      # Main source file
-├── Makefile         # Build configuration
-├── README.md        # This file
-└── .gitignore       # Git ignore rules
+├── minishell.c      
+├── Makefile        
+├── README.md       
+└── .gitignore      
+└── LICENSE        
+
 ```
 
 ## Implementation Details
