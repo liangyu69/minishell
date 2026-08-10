@@ -1,4 +1,4 @@
-```markdown
+
 # minishell
 
 A simple Unix shell written in C, supporting built-in commands, redirection, pipes, background execution, and signal handling.
@@ -153,4 +153,3 @@ Liangyu
 ## License
 
 MIT
-```
